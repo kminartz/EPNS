@@ -15,7 +15,7 @@ Additionally, CC3D version 4.3.0 is use to generate the cellular dynamics data. 
 
 ## Training
 
-To train the EPNS or PNS models, run this command, where <config> is a config file in the configs directory:
+To train the EPNS or PNS models, run this command, where config is a config file in the configs directory:
 
 ```train
 python train_model.py <config>
@@ -55,7 +55,7 @@ Code for generating the datasets will be added to this repository soon.
 
 ---
 
-If you found our work useful, please consider citing:
+If you found our work useful, consider citing:
 
 ```
 @inproceedings{
