@@ -58,14 +58,13 @@ Code for generating the datasets will be added to this repository soon.
 If you found our work useful, please consider citing:
 
 ```
-@misc{minartz2023,
-      title={Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics}, 
-      author={Koen Minartz and Yoeri Poels and Simon Koop and Vlado Menkovski},
-      url={https://arxiv.org/abs/2305.14286},
-      year={2023},
-      eprint={2305.14286},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{
+minartz2023,
+title={Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics},
+author={Koen Minartz and Yoeri Poels and Simon Martinus Koop and Vlado Menkovski},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=CCVsGbhFdj}
 }
 ```
 
